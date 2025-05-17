@@ -62,6 +62,17 @@ To protect the uniqueness and value of this project, the **source code is not pu
 - Automation packages
 
 ---
+ Want the Full Code?
+The full code is not publicly open-source.
+
+However, if enough people ask, I might:
+
+📽 Release a full YouTube tutorial explaining the entire code
+
+💻 Open-source the entire project
+
+🧩 Release plugins for more use-cases (ads, shorts, etc.)
+
 
 ## 🔖 SEO Tags
 
